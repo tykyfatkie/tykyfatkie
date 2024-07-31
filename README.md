@@ -1,4 +1,4 @@
-![wallpaper](https://imgur.com/DoKyZJ0.jpg)
+![wallpaper](https://imgur.com/lgbewlJ.gif)
 
 ## Hi there, fat~desu （＾－＾✿）
 - ⭐️ a lazy coder, maybe?
