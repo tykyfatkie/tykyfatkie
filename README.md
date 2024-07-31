@@ -4,17 +4,17 @@
 
 ## Hi there, fat~desu （＾－＾✿）
 - ⭐️ a lazy coder, maybe?
-- Megumin > you.
+- ❤️ Megumin > you.
 - 💻 Programming
 - 🌐 Web Development
-  
-### Contacts 📫
-- Discord: **phat_ng**
-
-## More...
 - 🔭 I’m currently studying Software Engineering
 - ⚡ Fun fact: I enjoy watching another people play video games xD
+-   
+### Contacts 📫
+- Discord: **phat_ng**
+- Email: gg.fctaiphat@yahoo.com
 
+## -----------------------------
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
