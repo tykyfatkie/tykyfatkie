@@ -7,7 +7,7 @@
 - 🌐 Web Development
 - 🔭 I’m currently studying Software Engineering
 - ⚡ Fun fact: I enjoy watching another people play video games xD
--   
+  
 ### Contacts 📫
 - Discord: **phat_ng**
 - Email: gg.fctaiphat@yahoo.com
