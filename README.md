@@ -1,4 +1,4 @@
-![megumin](https://imgur.com/vEJpfff.gif)
+![wallpaper](![megumin](https://imgur.com/vEJpfff.gif))
 
 ## Hi there, fat~desu （＾－＾✿）
 - ⭐️ a lazy coder, maybe?
@@ -20,4 +20,4 @@
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-![icon](https://imgur.com/GCcsX8J.jpg)![icon](https://imgur.com/GCcsX8J.jpg)![icon](https://imgur.com/GCcsX8J.jpg)![icon](https://imgur.com/GCcsX8J.jpg)![icon](https://imgur.com/GCcsX8J.jpg)
+![megumin](https://imgur.com/vEJpfff.gif)
