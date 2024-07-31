@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![megumin](https://imgur.com/vEJpfff.gif)
 
 ## Hi there, fat~desu （＾－＾✿）
