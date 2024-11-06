@@ -1,8 +1,8 @@
 ![wallpaper](https://imgur.com/vEJpfff.gif)
 
 ## Hi there, fat~desu （＾－＾✿）
-- ⭐️ a lazy coder, maybe?
-- ❤️ Megumin > you.
+- ⭐️ Sporty guy
+- ❤️ Single
 - 💻 Programming
 - 🌐 Web Development
 - 🔭 I’m currently studying Software Engineering
