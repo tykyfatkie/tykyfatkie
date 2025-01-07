@@ -1,4 +1,4 @@
-![wallpaper](https://imgur.com/vEJpfff.gif)
+//![wallpaper](https://imgur.com/vEJpfff.gif)
 
 ## Hi there, fat~desu （＾－＾✿）
 - ⭐️ Sporty guy
