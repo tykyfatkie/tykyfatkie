@@ -1,6 +1,6 @@
-//![wallpaper](https://imgur.com/vEJpfff.gif)
 
-## Hi there, fat~desu （＾－＾✿）
+
+## Hi there, Phat Nguyen~mitaaaa （＾－＾✿）
 - ⭐️ Sporty guy
 - ❤️ Single
 - 💻 Programming
