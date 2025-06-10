@@ -40,11 +40,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tykyfatkie&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tykyfatkie&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tykyfatkie&theme=radical&hide_border=true)
   
 </div>
 
@@ -74,10 +74,10 @@
   
   ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=tykyfatkie&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
 
 ---
 
-⭐️ **From [Phat Nguyen~mitaaaa](https://github.com/yourusername)** - *Thanks for visiting my profile!*
+⭐️ **From [Phat Nguyen~mitaaaa](https://github.com/tykyfatkie)** - *Thanks for visiting my profile!*
