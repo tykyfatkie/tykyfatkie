@@ -1,12 +1,12 @@
 
 
-## Hi there, Phat Nguyen~mitaaaa （＾－＾✿）
+## 안녕하세요, Phat Nguyen~mitaaaa （＾－＾✿）
 - ⭐️ Sporty guy
 - ❤️ Single
 - 💻 Programming
 - 🌐 Web Development
 - 🔭 I’m currently studying Software Engineering
-- ⚡ Fun fact: I enjoy watching another people play video games xD
+
   
 ### Contacts 📫
 - Discord: **phat_ng**
