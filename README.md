@@ -80,4 +80,4 @@
 
 ---
 
-⭐️ **From [Phat Nguyen~mitaaaa](https://github.com/tykyfatkie)** - *Thanks for visiting my profile!*
+⭐️ **From [Phat Nguyen](https://github.com/tykyfatkie)** - *Thanks for visiting my profile!*
