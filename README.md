@@ -1,4 +1,4 @@
-# 👋 안녕하세요, Phat Nguyen~mitaaaa （＾－＾✿）
+# 👋 안녕하세요, Phat Nguyen （＾－＾✿）
 
 <div align="center">
   
