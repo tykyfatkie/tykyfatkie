@@ -1,6 +1,4 @@
-# 👋 안녕하세요, Phat Nguyen (Tykyfatkie) 
-
----
+# 👋 안녕하세요, Phat Nguyen 
 
 ## 📊 GitHub Stats
 
