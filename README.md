@@ -13,20 +13,6 @@
   
 </div>
 
----
-
-## 🎯 Current Focus
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" />
-
-🔭 **Currently Learning:** Advanced React Native patterns, Django integrations, and AWS.  
-🌟 **Working On:** Building modern full-stack web and mobile applications, including my Capstone project - "Orchid Lab" management system.  
-🎪 **Fun Fact:** I love winding down with a good gaming session or hitting a workout after a long day of debugging!  
-
-<br/>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
